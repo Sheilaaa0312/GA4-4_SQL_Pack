@@ -387,6 +387,6 @@ The last query also showed how important it is to understand exactly what a calc
 
 # Appendix
 
-- GitHub Repository
+- [GitHub Repository](https://github.com/Sheilaaa0312/GA4-4_SQL_Pack)
 
-- GitHub Pages
+- [GitHub Pages](https://sheilaaa0312.github.io/GA4-4_SQL_Pack/)
